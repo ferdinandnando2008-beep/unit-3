@@ -1,0 +1,5 @@
+=============================================
+      STUDENT DETAILS MANAGEMENT SYSTEM      
+=============================================
+
+Enter the total number of students: 
